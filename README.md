@@ -6,7 +6,7 @@
 
 ---
 
-## 📖 Overview
+##Overview
 
 Automatic speech‐recognition systems often struggle with non-native English accents, leading to biased or inaccurate transcriptions. In this project, we build and compare three accent-classification pipelines, integrate advanced Python optimization techniques, and demonstrate that a VGGish-based model achieves the best balance of accuracy and efficiency.
 
